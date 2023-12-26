@@ -71,7 +71,9 @@ function Header() {
                     </div>
                 </div>                
             </div>
-            <img src={profile} className='w-12 h-12 rounded-full object-cover' />
+            <img src={profile} className='w-12 h-12 rounded-full object-cover border-2 border-gray-700
+               cursor-pointer hover:scale-110 hover:border-gray-500 transition-all duration-150 ease-in-out
+            '/>
         </div>
 
 

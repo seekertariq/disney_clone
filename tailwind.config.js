@@ -10,6 +10,9 @@ export default {
         mainbg: '#1A1D29'
       }
     },
+    fontFamily:{
+      mainfont:['Inter']
+    }
   },
   plugins: [
     /*eslint-env node*/
