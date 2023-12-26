@@ -50,7 +50,7 @@ function ProductionHouse() {
               
                 <video src={item.video} autoPlay loop playsInline muted
                 className='absolute z-0 top-0 rounded-md 
-                opacity-0 hover:opacity-70 '
+                opacity-0 hover:opacity-70 w-full'
                 />
                   <img src={item.image} className='w-full'/>
             </div>
